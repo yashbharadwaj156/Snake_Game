@@ -8,9 +8,5 @@ Snake game is one of the most famous games available on all types of device and 
 # Features
 "Here ## reprents our snake and O represents our fruit."
 # Controls
-1-Press e for starting the game
-2-w is control key for turning upward
-3-a is control key for turning left
-4-s is control key for turning downward
-5-d is control key for turning right
-6-press x for exiting the game.
+1-Press E for starting the game.
+2-kcnwefweklnm
