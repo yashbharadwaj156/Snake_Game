@@ -19,5 +19,5 @@ Snake game is one of the most famous games available on all types of device and 
 5-d is control key for turning right.
 
 6-press x for exiting the game.
-# Open for viewer's valuable suggestion and advice to improve this.Plz Feel Free to contact me!!!!
+# Open for viewer's valuable suggestion and advice to improve this game.Plz Feel Free to contact me!!!!
 
